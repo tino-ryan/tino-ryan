@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Software Developer | 📊 Data Analyst | 🎓 Computer Science Graduate
+  ### Software Developer |  Data Analyst |  Computer Science Graduate
   
   <p>
     <em>Transforming complex data into actionable insights & building scalable software solutions</em>
