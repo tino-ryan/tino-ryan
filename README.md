@@ -24,7 +24,7 @@
 const tinotenda = {
     location: "Johannesburg, South Africa 🇿🇦",
     education: "BSc Computer Science - University of the Witwatersrand",
-    currentRole: "Junior Software Developer @ IAT Fusion",
+    currentRole: "software developer @ViaTap",
     passions: ["Software Architecture", "Data Science", "AI/ML", "Cloud Computing"],
     languages: ["English", "Shona", "IsiZulu"],
     availability: "Open to full-time opportunities from December 2025"
